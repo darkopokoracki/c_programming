@@ -14,5 +14,4 @@ void main() {
     printf("Years:  %d\n", years);
     printf("Weeks: %d\n", weeks);
 
-    return 0;
 }
